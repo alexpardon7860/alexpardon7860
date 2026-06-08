@@ -121,17 +121,18 @@ Problem Solving · Communication · Teamwork · Creativity · Leadership & Manag
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alexpardon7860&theme=onedark&column=7" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=alexpardon7860&theme=onedark&column=4&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 <hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexpardon7860&count_private=true&layout=compact&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alexpardon7860&count_private=true&show_icons=true&hide_border=true&theme=dracula" height="180" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexpardon7860&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexpardon7860&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexpardon7860&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <hr>
