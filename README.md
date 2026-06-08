@@ -119,20 +119,13 @@ Problem Solving · Communication · Teamwork · Creativity · Leadership & Manag
 
 <hr>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexpardon7860&theme=onedark&column=4&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
-</p>
-
-<hr>
-
 <h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexpardon7860&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexpardon7860&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexpardon7860&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/followers/alexpardon7860?label=Followers&style=for-the-badge&color=0e75b6&logo=github" />
+  <img src="https://img.shields.io/github/stars/alexpardon7860?label=Stars&style=for-the-badge&color=f0e130&logo=github" />
+  <img src="https://img.shields.io/badge/CGPA-8.4-brightgreen?style=for-the-badge&logo=academia" />
+  <img src="https://img.shields.io/badge/BCA-Data%20Science-blue?style=for-the-badge&logo=databricks" />
 </p>
 
 <hr>
