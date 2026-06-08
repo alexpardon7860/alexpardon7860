@@ -38,7 +38,7 @@ I'm passionate about **Web Development, Data Science, Machine Learning, and IoT*
 | Institution | Degree / Board | Year | Score |
 |:---|:---|:---|:---|
 | Institute of Information Technology & Management (GGSIPU) | BCA – Specialization in Data Science | 2023 – 2026 | CGPA: 8.4 |
-| Hans Raj Smarak Senior Secondary School, Dilshad Garden | PCM with CS | 2018 – 2022 | — |
+
 
 <hr>
 
