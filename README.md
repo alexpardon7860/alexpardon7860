@@ -8,7 +8,7 @@
 </p>
 
 ✅ **Vice President & Technical Head @ AIEC IITM Janakpuri**
-✅ **BCA (Data Science) @ IITM, GGSIPU | CGPA: 8.4**
+✅ **BCA (Data Science) @ IITM, GGSIPU | CGPA: 8.6**
 ✅ **2nd Position – Smart India Hackathon (Internal)**
 ✅ **NexHack 1.0 – National Level Hackathon Participant**
 ✅ **Passionate about building user-centric, intelligent digital solutions**
@@ -37,7 +37,7 @@ I'm passionate about **Web Development, Data Science, Machine Learning, and IoT*
 
 | Institution | Degree / Board | Year | Score |
 |:---|:---|:---|:---|
-| Institute of Information Technology & Management (GGSIPU) | BCA – Specialization in Data Science | 2023 – 2026 | CGPA: 8.4 |
+| Institute of Information Technology & Management (GGSIPU) | BCA – Specialization in Data Science | 2023 – 2026 | CGPA: 8.6 |
 
 
 <hr>
@@ -124,7 +124,7 @@ Problem Solving · Communication · Teamwork · Creativity · Leadership & Manag
 <p align="center">
   <img src="https://img.shields.io/github/followers/alexpardon7860?label=Followers&style=for-the-badge&color=0e75b6&logo=github" />
   <img src="https://img.shields.io/github/stars/alexpardon7860?label=Stars&style=for-the-badge&color=f0e130&logo=github" />
-  <img src="https://img.shields.io/badge/CGPA-8.4-brightgreen?style=for-the-badge&logo=academia" />
+  <img src="https://img.shields.io/badge/CGPA-8.6-brightgreen?style=for-the-badge&logo=academia" />
   <img src="https://img.shields.io/badge/BCA-Data%20Science-blue?style=for-the-badge&logo=databricks" />
 </p>
 
